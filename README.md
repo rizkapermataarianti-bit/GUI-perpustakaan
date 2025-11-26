@@ -1,4 +1,4 @@
-# 📚 Aplikasi Sistem Informasi Perpustakaan – UAS Pemrograman
+# 📚 Aplikasi Sistem Informasi Perpustakaan 
 
 Aplikasi Sistem Informasi Perpustakaan ini dikembangkan sebagai kebutuhan yang terjadi di lapangan. Sistem ini dirancang untuk membantu proses pengelolaan data perpustakaan secara lebih efektif, terstruktur, dan modern. Dengan memanfaatkan bahasa pemrograman Python serta antarmuka grafis Tkinter, aplikasi ini memungkinkan pengguna untuk melakukan berbagai aktivitas, seperti login, pengelolaan buku, pencatatan transaksi peminjaman, hingga menampilkan laporan kegiatan perpustakaan.  
 
